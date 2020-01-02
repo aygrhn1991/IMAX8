@@ -11,29 +11,29 @@
         android:layout_weight="4"
         android:orientation="vertical">
 
-        <TextView
+        <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#b2dfdb" />
+            android:text="11" />
 
-        <TextView
+        <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#80cbc4" />
+            android:text="12" />
 
-        <TextView
+        <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#4db6ac" />
+            android:text="13" />
 
-        <TextView
+        <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#26a69a" />
+            android:text="14" />
     </LinearLayout>
 
     <LinearLayout
